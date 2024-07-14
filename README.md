@@ -1,9 +1,22 @@
-Pixel.Coffee
 
-Instalación
-Para instalar todas las dependencias necesarias, ejecuta el siguiente comando:
+---
+
+# Pixel.Coffee
+
+## Installation
+
+To install all the necessary dependencies, run the following command:
+
+```bash
 npm install
+```
 
-Ejecución
-Para iniciar la aplicación, utiliza el siguiente comando:
+## Execution
+
+To start the application, use the following command:
+
+```bash
 npm start
+```
+
+---
